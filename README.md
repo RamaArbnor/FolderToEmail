@@ -22,3 +22,6 @@ The email received from this app will have as a subject the date and time of the
 
 ## Future
 This version is not very straight forward to set up in the future I will add an option for start up with the machine.
+
+## License
+Created by Arbnor Rama on July 2023.
