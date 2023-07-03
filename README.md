@@ -9,12 +9,10 @@ Clone this repo on your machine.
 ### STEP 2
 On the .env file change the email and password to your real email and password
 ### STEP 3
-Create a folder named 'upload' on the same directory where you cloned the repo.
-### STEP 4
 Create a shortcut of the 'upload' folder on Desktop
-### STEP 5
+### STEP 4
 Open a cmd on the repo directoru and do 'node index.js'
-### STEP 6
+### STEP 5
 Upload any file on this folder even multiple files, (not folder) though you can upload rar's zip's etc..
 
 ## Email
