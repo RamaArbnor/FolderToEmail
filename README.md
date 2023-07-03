@@ -3,7 +3,7 @@
 ## HOW TO INSTALL
 
 ### STEP 0
-You must have node installed.
+You must have NodeJS installed. https://nodejs.org/en
 ### STEP 1
 Clone this repo on your machine.
 ### STEP 2
